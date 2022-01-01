@@ -1,6 +1,8 @@
 # Jogo de marretadas - Whack a mole
 #
 # Jogo de aprendizado das funções em JAVASCRIPT
+
+
 # Ele utiliza as funções:
 #
 # querySelector()
@@ -10,4 +12,3 @@
 # forEach()
 # Arrow functions
 # 
-#
