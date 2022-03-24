@@ -3,7 +3,7 @@
  Jogo de aprendizado das funções em JAVASCRIPT
 
 
- Ele utiliza as funções:
+ Ele utiliza os métodos:
 
  querySelector()<br>
  addEventListener()<br>
